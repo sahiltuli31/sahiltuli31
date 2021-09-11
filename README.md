@@ -6,7 +6,7 @@ I'm a **Pre-Final Year ECE** undergrad at **NIT-J**
 - 🌱 I’m currently learning `NodeJS` and `ReactJS`.
 - 💻 I'm a also intrested in **Competitive Programming**.   
   - ⚡ My Competitive Profiles  : [Codechef- **3⭐(Div. 2)**](https://www.codechef.com/users/sahiltuli_31) and  [LeetCode- **3⭐**](https://leetcode.com/sahiltuli_31/).  
-- 📫 How to reach me [**LinkedIn** ](https://www.linkedin.com/in/sahil-tuli-96222a195/) or mail at [**sahildec312001@gmail.com** ](mailto:sahildec312001@gmail.com)😇.
+- 📫Reach me on [**LinkedIn** ](https://www.linkedin.com/in/sahil-tuli-96222a195/) or mail at [**sahildec312001@gmail.com** ](mailto:sahildec312001@gmail.com)😇.
 
 <!--
 **pawankholiya01/pawankholiya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
