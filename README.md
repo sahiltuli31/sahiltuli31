@@ -1,4 +1,4 @@
-### HiyA 👋
+### Hey 👋
 I'm a **Pre-Final Year ECE** undergrad at **NIT-J** 
 
 - 🔭 I’m currently working on `Web-Development` Projects.      
